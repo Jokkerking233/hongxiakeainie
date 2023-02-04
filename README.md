@@ -4,12 +4,18 @@ lofterSpiderRobot.py 是一个用于获取lofter上图片并推送到企业微�
 
 # 环境搭建
 命令行输入
+
 pip3 install requests
+
 下面的不一定需要
 pip3 install lxml
+
 pip3 install urllib3
+
 pip3 install json5
+
 pip3 install html2text
+
 pip3 install numpy
 
 # 使用方法：
