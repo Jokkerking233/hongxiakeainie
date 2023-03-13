@@ -1,6 +1,6 @@
 我要和虹夏结婚！
 lofterSpiderRobot.py 是一个用于获取lofter上图片并推送到企业微信机器人的脚本
-实现参考了 https://github.com/IshtarTang/lofterSpider 的项目做了一定简化
+实现参考了 https://github.com/IshtarTang/lofterSpider 的项目做了一定改造
 
 # 环境搭建
 命令行输入
